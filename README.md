@@ -129,4 +129,4 @@ Utilization = (Sum of all gate areas) / (Final bounding box area)
 
 ## Acknowledgements
 
-This project was developed as part of the COL106/COL215 course at IIT Delhi, focusing on data structures and algorithms for electronic design automation.
+This project was developed as part of the COL215 course at IIT Delhi, focusing on data structures and algorithms for electronic design automation.
